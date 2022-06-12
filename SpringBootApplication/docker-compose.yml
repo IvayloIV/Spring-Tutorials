@@ -1,0 +1,21 @@
+version: '1.0'
+services:
+  dbpostgresql:
+    container_name: postgresqldb
+    image: postgres
+    ports:
+      - "5429:5432"
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=1234
+    volumes:
+      - ./docker_postgres_init.sql:/docker-entrypoint-initdb.d/docker_postgres_init.sql
+  app:
+    container_name: app-springboot-postgresql
+    image: app-spring-boot-postgresql
+    build: ./
+    ports:
+      - "8080:5000"
+    depends_on:
+      - dbpostgresql

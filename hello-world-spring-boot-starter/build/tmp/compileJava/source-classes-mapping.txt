@@ -1,0 +1,6 @@
+com/pluralsight/helloworldstarter/Hello.java
+ com.pluralsight.helloworldstarter.Hello
+com/pluralsight/helloworldstarter/DemoApplication.java
+ com.pluralsight.helloworldstarter.DemoApplication
+com/pluralsight/helloworldstarter/HelloConfiguration.java
+ com.pluralsight.helloworldstarter.HelloConfiguration

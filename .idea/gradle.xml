@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Install/Gradle/gradle-6.9.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SpringAOPAnnotations" />
+            <option value="$PROJECT_DIR$/SpringAOPIntroductions" />
+            <option value="$PROJECT_DIR$/SpringAOPWithDB" />
+            <option value="$PROJECT_DIR$/SpringAOPXml" />
+            <option value="$PROJECT_DIR$/SpringBootActuator" />
+            <option value="$PROJECT_DIR$/SpringBootApplication" />
+            <option value="$PROJECT_DIR$/SpringBootGraphQL" />
+            <option value="$PROJECT_DIR$/SpringBootH2" />
+            <option value="$PROJECT_DIR$/SpringBootHeroku" />
+            <option value="$PROJECT_DIR$/SpringBootJSP" />
+            <option value="$PROJECT_DIR$/SpringBootSSL" />
+            <option value="$PROJECT_DIR$/SpringBootTesting" />
+            <option value="$PROJECT_DIR$/SpringBootTomcat" />
+            <option value="$PROJECT_DIR$/SpringEL" />
+            <option value="$PROJECT_DIR$/SpringFundamentalsJava" />
+            <option value="$PROJECT_DIR$/SpringFundamentalsXml" />
+            <option value="$PROJECT_DIR$/SpringThymeleaf" />
+            <option value="$PROJECT_DIR$/hello-world-spring-boot-starter" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

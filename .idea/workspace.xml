@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : com.pluralsight : conferencejsp.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21d5764c-eaef-4f21-98b7-afc2fe4e781e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.9.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/LogException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/PassengerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/PassengerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/PassengerNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/TimeAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPIntroductions/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/CachingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/DataExceptionAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/DatabaseConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/PassengerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/PassengerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/PassengerNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/out/production/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/src/main/java/com/pluralsight/springaopxml/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/src/main/java/com/pluralsight/springaopxml/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/src/main/java/com/pluralsight/springaopxml/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/src/main/java/com/pluralsight/springaopxml/PassengerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/src/main/java/com/pluralsight/springaopxml/PassengerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOPXml/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/out/production/classes/META-INF/shop.SpringBootActuator.main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/actuator/CustomNameEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/actuator/HeapHealthIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/actuator/InfoApplicationContributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/actuator/TimeMetricsRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/controller/ApplicationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/entity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/entity/Release.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/exception/ApplicationNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/repository/ApplicationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/repository/ReleaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/service/ApplicationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/java/com/pluralsight/springbootactuator/service/ApplicationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootActuator/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build/bootJarMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build/resources/main/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build/resources/main/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/docker_postgres_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/out/production/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/out/production/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/config/BeanConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/config/PropertiesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/controllers/SessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/controllers/SpeakerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/models/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/models/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/repositories/SessionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/java/com/pluralsight/springbootapplication/repositories/SpeakerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootApplication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/actuator/ArmyHealthIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/actuator/CustomEndpointComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/entity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/entity/Release.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/exception/ApplicationNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/mutator/ApplicationMutator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/repository/ApplicationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/repository/ReleaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/java/com/pluralsight/springbootgraphql/resolver/ApplicationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/resources/application.graphqls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootGraphQL/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/bootJarMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/resources/main/static/images/virus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/resources/main/templates/applicationList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/resources/main/templates/fragments/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/resources/main/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/out/production/resources/static/images/virus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/out/production/resources/templates/applicationList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/out/production/resources/templates/fragments/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/out/production/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/controller/ApplicationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/controller/ApplicationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/entity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/entity/Release.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/exception/ApplicationNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/repository/ApplicationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/repository/ReleaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/service/ApplicationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/java/com/pluralsight/springbooth2/service/ApplicationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/resources/static/images/virus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/resources/templates/applicationList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootH2/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/build/bootJarMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/controllers/SessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/controllers/SpeakerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/models/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/models/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/repositories/SessionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/repositories/SpeakerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootHeroku/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/out/production/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/out/production/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/out/production/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/out/production/resources/static/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/out/production/resources/static/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLengthValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/img/bunny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/jsp/greetings.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/out/production/resources/ssl-server.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/controller/ApplicationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/entity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/entity/Release.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/exception/ApplicationNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/repository/ApplicationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/repository/ReleaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/service/ApplicationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/java/com/pluralsight/springbootssl/service/ApplicationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/resources/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootSSL/src/main/resources/ssl-server.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/controller/ApplicationRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/entity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/entity/Release.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/entity/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/exception/ApplicationNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/repository/ApplicationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/repository/ReleaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/service/ApplicationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/java/com/pluralsight/springboottesting/service/ApplicationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/test/java/com/pluralsight/springboottesting/ApplicationRestControllerIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/test/java/com/pluralsight/springboottesting/controller/ApplicationRestControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/test/java/com/pluralsight/springboottesting/repository/ApplicationRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTesting/src/test/java/com/pluralsight/springboottesting/service/ApplicationServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/build/bootWarMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/controllers/SessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/controllers/SpeakerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/models/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/models/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/repositories/SessionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/repositories/SpeakerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootTomcat/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/out/production/classes/META-INF/shop.SpringEL.main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/out/production/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/java/com/pluralsight/springel/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/java/com/pluralsight/springel/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/java/com/pluralsight/springel/PlainJavaExpressionParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/java/com/pluralsight/springel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/java/com/pluralsight/springel/ValueExpressionParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/java/com/pluralsight/springel/XmlAppExpressionParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEL/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/model/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/repository/CustomFruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/repository/FruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/repository/HibernateFruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/service/FruitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsJava/src/main/java/com/pluralsight/springfundamentalsjava/service/FruitServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/out/production/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/LifeCycleBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/LifeCycleProccessors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/factorybeans/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/factorybeans/CarAbstractFacory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/factorybeans/CarFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/factorybeans/CarUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/model/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/profiles/Clean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/profiles/CleanChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/profiles/CleanTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/proxies/DobAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/proxies/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/proxies/DogImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/repository/CustomFruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/repository/FruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/repository/HibernateFruitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/service/FruitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/service/FruitServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/spel/MyTestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/java/com/pluralsight/springfundamentalsxml/spel/TestSpEl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringFundamentalsXml/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/build/bootWarMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringThymeleaf/src/main/webapp/WEB-INF/views/greetings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/build/resources/main/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/out/production/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/src/main/java/com/pluralsight/helloworldstarter/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/src/main/java/com/pluralsight/helloworldstarter/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/src/main/java/com/pluralsight/helloworldstarter/HelloConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootApplication/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootApplication/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootApplication/out/" />
+    <ignored path="$PROJECT_DIR$/SpringFundamentalsJava/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringFundamentalsJava/build/" />
+    <ignored path="$PROJECT_DIR$/SpringFundamentalsJava/out/" />
+    <ignored path="$PROJECT_DIR$/SpringFundamentalsXml/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringFundamentalsXml/build/" />
+    <ignored path="$PROJECT_DIR$/SpringFundamentalsXml/out/" />
+    <ignored path="$PROJECT_DIR$/hello-world-spring-boot-starter/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hello-world-spring-boot-starter/build/" />
+    <ignored path="$PROJECT_DIR$/hello-world-spring-boot-starter/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootHeroku/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootHeroku/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootHeroku/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootTomcat/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootTomcat/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootTomcat/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootH2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootH2/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootH2/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootGraphQL/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootGraphQL/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootGraphQL/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootTesting/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootTesting/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootTesting/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootSSL/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootSSL/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootSSL/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootActuator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootActuator/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootActuator/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootEL/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootEL/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootEL/out/" />
+    <ignored path="$PROJECT_DIR$/SpringEL/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringEL/build/" />
+    <ignored path="$PROJECT_DIR$/SpringEL/out/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPXml/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPXml/build/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPXml/out/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPAnnotations/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPAnnotations/build/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPAnnotations/out/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPWithDB/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPWithDB/build/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPWithDB/out/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPIntroductions/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPIntroductions/build/" />
+    <ignored path="$PROJECT_DIR$/SpringAOPIntroductions/out/" />
+    <ignored path="$PROJECT_DIR$/SpringBootJSP/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringBootJSP/build/" />
+    <ignored path="$PROJECT_DIR$/SpringBootJSP/out/" />
+    <ignored path="$PROJECT_DIR$/SpringThymeleaf/.gradle/" />
+    <ignored path="$PROJECT_DIR$/SpringThymeleaf/build/" />
+    <ignored path="$PROJECT_DIR$/SpringThymeleaf/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringBootApplication">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringFundamentalsXml">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/hello-world-spring-boot-starter">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringBootHeroku">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringBootTomcat">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringBootH2">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringBootGraphQL">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringEL">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringBootJSP">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SpringThymeleaf">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shop" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shop" type="f1a62948:ProjectNode" />
+                <item name="SpringThymeleaf" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shop" type="f1a62948:ProjectNode" />
+                <item name="SpringThymeleaf" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="shop" type="f1a62948:ProjectNode" />
+                <item name="SpringThymeleaf" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-boot-2.</find>
+      <find>image</find>
+      <find>server</find>
+      <find>error</find>
+      <find>ResponseStatusEx</find>
+      <find>Heal</find>
+      <find>-parameters</find>
+      <find>ProxyFactory</find>
+      <find>war</find>
+      <find>IWebExchange</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringBootH2</dir>
+      <dir>C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/LogAspect.java" />
+        <option value="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/Main.java" />
+        <option value="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/PassengerDaoImpl.java" />
+        <option value="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/PassengerDao.java" />
+        <option value="$PROJECT_DIR$/SpringAOPAnnotations/src/main/java/com/pluralsight/springaopannotations/TimeAspect.java" />
+        <option value="$PROJECT_DIR$/SpringAOPWithDB/build.gradle" />
+        <option value="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/DatabaseConfig.java" />
+        <option value="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/PassengerDao.java" />
+        <option value="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/Main.java" />
+        <option value="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/DataExceptionAspect.java" />
+        <option value="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/PassengerDaoImpl.java" />
+        <option value="$PROJECT_DIR$/SpringAOPWithDB/src/main/java/com/pluralsight/springaopwithdb/CachingAspect.java" />
+        <option value="$PROJECT_DIR$/SpringAOPIntroductions/build.gradle" />
+        <option value="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerDao.java" />
+        <option value="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/Passenger.java" />
+        <option value="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerAspect.java" />
+        <option value="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerDaoImpl.java" />
+        <option value="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/Main.java" />
+        <option value="$PROJECT_DIR$/SpringAOPIntroductions/src/main/java/com/pluralsight/springaopintroductions/PassengerAdvisor.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/jsp/greetings.html" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/HelloController.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/webapp/greetings2.jsp" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/resources/messages_bg.properties" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/jsp/greetings.jsp" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/SpringThymeleaf/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/SpringThymeleaf/src/main/webapp/WEB-INF/views/greetings.html" />
+        <option value="$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/controllers/HelloController.java" />
+        <option value="$PROJECT_DIR$/SpringThymeleaf/build.gradle" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/build.gradle" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/jsp/registration.jsp" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLenght.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLenghtValidator.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLengthValidator.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/model/Person.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLength.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/resources/messages_fr.properties" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/resources/messages.properties" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/RegistrationController.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/model/User.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/UserController.java" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/user.js" />
+        <option value="$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/user.html" />
+        <option value="$PROJECT_DIR$/SpringBootHeroku/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/SpringBootTomcat/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="96" />
+    <option name="y" value="-9" />
+    <option name="width" value="1104" />
+    <option name="height" value="600" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Tutorials" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Tutorials" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SpringBootJSP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Tutorials" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SpringBootJSP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Tutorials" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SpringBootJSP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Tutorials" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SpringBootJSP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Tutorials" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="SpringBootJSP" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootjsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.pluralsight.springboottesting.controller" />
+      <recent name="com.pluralsight.springboottesting.service" />
+      <recent name="com.pluralsight.springboottesting.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringThymeleaf\src\main\java\com\pluralsight\springthymeleaf" />
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringThymeleaf\src\main" />
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringThymeleaf\src\main\resources" />
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringBootJSP\src\main\webapp" />
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringBootJSP\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pluralsight.springthymeleaf" />
+      <recent name="com.pluralsight.springbootjsp" />
+      <recent name="com.pluralsight.springaopintroductions" />
+      <recent name="com.pluralsight.springel" />
+      <recent name="com.pluralsight.springbootactuator.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringBootJSP\src\main\webapp\jsp" />
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringBootH2\src\main\resources\static" />
+      <recent name="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight\SpringBootApplication" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.TomcatJSP">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.springaopwithdb.Main" />
+      <module name="shop.SpringAOPWithDB.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.springaopwithdb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.springaopintroductions.Main" />
+      <module name="shop.SpringAOPIntroductions.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.springaopintroductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringPluralsight:SpringBootJSP [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootJSP" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringPluralsight:SpringBootJSP [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootJSP" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringPluralsight:SpringThymeleaf [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringThymeleaf" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunIt" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/SpringBootApplication/build/libs/SpringBootApplication-0.0.1-SNAPSHOT.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Ivaylo_nikolaev\Desktop\SpringPluralsight" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringThymeleaf.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springthymeleaf.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop.hello-world-spring-boot-starter.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.helloworldstarter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.helloworldstarter.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootHeroku.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.conferenceapp.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootH2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springbooth2.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootTesting.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springboottesting.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootGraphQL.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springbootgraphql.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootSSL.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springbootssl.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootActuator.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springbootactuator.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringEL.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springel.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootJSP.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springbootjsp.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop.SpringBootApplication.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pluralsight.springbootapplication.DemoApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=prod" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="dbconn" value="jdbc:postgresql://localhost:5430/postgres?currentSchema=conference_app" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TomcatJSP" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.pluralsight : conferencejsp.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/conferencejsp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65496" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.pluralsight : conferencejsp.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="TomcatThyme" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/conferencethymeleaf/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.pluralsight : conferencethymeleaf.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/conferencethymeleaf" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55245" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.pluralsight : conferencethymeleaf.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Gradle.SpringPluralsight:SpringBootJSP [build]" />
+      <item itemvalue="Gradle.SpringPluralsight:SpringBootJSP [clean]" />
+      <item itemvalue="Gradle.SpringPluralsight:SpringThymeleaf [build]" />
+      <item itemvalue="JAR Application.RunIt" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="Spring Boot.DemoApplication (2)" />
+      <item itemvalue="Spring Boot.DemoApplication (4)" />
+      <item itemvalue="Spring Boot.DemoApplication (5)" />
+      <item itemvalue="Spring Boot.DemoApplication (3)" />
+      <item itemvalue="Spring Boot.DemoApplication (6)" />
+      <item itemvalue="Spring Boot.DemoApplication (7)" />
+      <item itemvalue="Spring Boot.DemoApplication (8)" />
+      <item itemvalue="Spring Boot.DemoApplication (9)" />
+      <item itemvalue="Spring Boot.DemoApplication (10)" />
+      <item itemvalue="Tomcat Server.TomcatThyme" />
+      <item itemvalue="Tomcat Server.TomcatJSP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SpringPluralsight:SpringThymeleaf [build]" />
+        <item itemvalue="Gradle.SpringPluralsight:SpringBootJSP [clean]" />
+        <item itemvalue="Gradle.SpringPluralsight:SpringBootJSP [build]" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21d5764c-eaef-4f21-98b7-afc2fe4e781e" name="Default Changelist" comment="" />
+      <created>1649666980313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649666980313</updated>
+      <workItem from="1649666981786" duration="3618000" />
+      <workItem from="1649745175684" duration="19000" />
+      <workItem from="1649745233707" duration="17389000" />
+      <workItem from="1649850047435" duration="3561000" />
+      <workItem from="1649919241352" duration="5304000" />
+      <workItem from="1650004024689" duration="5668000" />
+      <workItem from="1650017023132" duration="149000" />
+      <workItem from="1650024459951" duration="5901000" />
+      <workItem from="1650033236900" duration="29000" />
+      <workItem from="1650096042386" duration="1304000" />
+      <workItem from="1650199553519" duration="7000" />
+      <workItem from="1650266791374" duration="9573000" />
+      <workItem from="1650294272371" duration="128000" />
+      <workItem from="1650354475935" duration="121000" />
+      <workItem from="1650356086152" duration="45000" />
+      <workItem from="1650370620222" duration="3166000" />
+      <workItem from="1650463898211" duration="672000" />
+      <workItem from="1650464604005" duration="8641000" />
+      <workItem from="1650535623142" duration="10880000" />
+      <workItem from="1650607485542" duration="6653000" />
+      <workItem from="1650624713069" duration="56000" />
+      <workItem from="1650694464605" duration="3268000" />
+      <workItem from="1650799344464" duration="2319000" />
+      <workItem from="1650876136321" duration="7916000" />
+      <workItem from="1651061430047" duration="2497000" />
+      <workItem from="1651143674936" duration="94000" />
+      <workItem from="1651496175668" duration="816000" />
+      <workItem from="1651512857121" duration="170000" />
+      <workItem from="1651677988084" duration="655000" />
+      <workItem from="1651758508750" duration="1979000" />
+      <workItem from="1651840539986" duration="6776000" />
+      <workItem from="1651912136395" duration="4138000" />
+      <workItem from="1652013418146" duration="3519000" />
+      <workItem from="1652030690891" duration="30000" />
+      <workItem from="1652072700954" duration="8455000" />
+      <workItem from="1652246567781" duration="2561000" />
+      <workItem from="1652359353322" duration="2344000" />
+      <workItem from="1652525383835" duration="2377000" />
+      <workItem from="1652596661291" duration="6710000" />
+      <workItem from="1652944334212" duration="8313000" />
+      <workItem from="1652967820656" duration="39000" />
+      <workItem from="1653034260018" duration="6127000" />
+      <workItem from="1653076348107" duration="24000" />
+      <workItem from="1653313452028" duration="632000" />
+      <workItem from="1653570886409" duration="8000" />
+      <workItem from="1654674181951" duration="5893000" />
+      <workItem from="1654759464514" duration="6343000" />
+      <workItem from="1654838746738" duration="7526000" />
+      <workItem from="1654929392416" duration="10871000" />
+      <workItem from="1655015125580" duration="1604000" />
+      <workItem from="1655017105797" duration="1005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ApplicationRepositoryTest_testValidApplication_findById - 2022.04.25 at 15h 08m 23s.xml">
+      <configuration name="ApplicationRepositoryTest.testValidApplication_findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRepositoryTest_testValidApplication_findById - 2022.04.25 at 15h 09m 41s.xml">
+      <configuration name="ApplicationRepositoryTest.testValidApplication_findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRepositoryTest_testValidApplication_findById - 2022.04.25 at 15h 09m 57s.xml">
+      <configuration name="ApplicationRepositoryTest.testValidApplication_findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationServiceTest_findAllApplication_withoutParameters - 2022.04.25 at 15h 16m 04s.xml">
+      <configuration name="ApplicationServiceTest.findAllApplication_withoutParameters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRestControllerTest_retrieveApplication - 2022.04.25 at 15h 22m 42s.xml">
+      <configuration name="ApplicationRestControllerTest.retrieveApplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRestControllerTest_retrieveApplication - 2022.04.25 at 15h 23m 38s.xml">
+      <configuration name="ApplicationRestControllerTest.retrieveApplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRestControllerTest_retrieveApplication - 2022.04.25 at 15h 24m 08s.xml">
+      <configuration name="ApplicationRestControllerTest.retrieveApplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRestControllerTest_retrieveApplication - 2022.04.25 at 15h 25m 19s.xml">
+      <configuration name="ApplicationRestControllerTest.retrieveApplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRestControllerTest_retrieveApplication - 2022.04.25 at 15h 26m 12s.xml">
+      <configuration name="ApplicationRestControllerTest.retrieveApplication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationRestControllerTest - 2022.04.25 at 15h 26m 30s.xml">
+      <configuration name="ApplicationRestControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187893000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3888889" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="GraphQL" order="16" />
+      <window_info anchor="bottom" id="Application Servers" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.31769723" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SpringBootTomcat/src/main/java/com/pluralsight/conferenceapp/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.18/13b609cf3e427f38af202ae959351a8c44bad357/spring-web-5.3.18-sources.jar!/org/springframework/web/WebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="176" column="17" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.6.6/cf1725b51386593324b11407a6da7c6e706c82ec/spring-boot-2.6.6-sources.jar!/org/springframework/boot/web/servlet/support/SpringBootServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.18/13b609cf3e427f38af202ae959351a8c44bad357/spring-web-5.3.18-sources.jar!/org/springframework/web/bind/annotation/ControllerAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/webapp/jsp/greetings2.jsp" />
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/img/bunny.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.18/da162c144e68218cc632dfc63dbaa55ab7715e45/spring-webmvc-5.3.18-sources.jar!/org/springframework/web/servlet/view/InternalResourceViewResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.18/da162c144e68218cc632dfc63dbaa55ab7715e45/spring-webmvc-5.3.18-sources.jar!/org/springframework/web/servlet/i18n/AbstractLocaleContextResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="40" column="74" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.18/da162c144e68218cc632dfc63dbaa55ab7715e45/spring-webmvc-5.3.18-sources.jar!/org/springframework/web/servlet/i18n/AbstractLocaleResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.18/da162c144e68218cc632dfc63dbaa55ab7715e45/spring-webmvc-5.3.18-sources.jar!/org/springframework/web/servlet/LocaleResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.13/lib/src.zip!/java.base/java/util/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="562" column="31" selection-start-line="562" selection-start-column="31" selection-end-line="562" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.18/263cf1b35c3c52f32db88c54b0562ef8a8bcb858/spring-context-5.3.18-sources.jar!/org/springframework/context/support/AbstractMessageSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="121" column="16" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.18/da162c144e68218cc632dfc63dbaa55ab7715e45/spring-webmvc-5.3.18-sources.jar!/org/springframework/web/servlet/i18n/SessionLocaleResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/controllers/RegistrationController.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring5/3.1.0.M2/c10b0037ba85c030632986aa5be70a368056335d/thymeleaf-spring5-3.1.0.M2-sources.jar!/org/thymeleaf/spring5/templateresolver/SpringResourceTemplateResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/3.0.15.RELEASE/5eb92df63196cac1d1df5cd3833ed25cdda8c1b9/thymeleaf-3.0.15.RELEASE-sources.jar!/org/thymeleaf/templateresolver/ServletContextTemplateResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringThymeleaf/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringThymeleaf/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringThymeleaf/src/main/webapp/WEB-INF/views/greetings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/controllers/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringThymeleaf/src/main/java/com/pluralsight/springthymeleaf/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/2.0.2/ef429a7f3bc2d2d1784a1135668a857a6aaedf31/jakarta.validation-api-2.0.2-sources.jar!/javax/validation/constraints/NotEmpty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/jsp/greetings.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/webapp/WEB-INF/jsp/registration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/resources/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/resources/messages_fr.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/constraints/NameLengthValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.18/263cf1b35c3c52f32db88c54b0562ef8a8bcb858/spring-context-5.3.18-sources.jar!/org/springframework/validation/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/2.0.2/ef429a7f3bc2d2d1784a1135668a857a6aaedf31/jakarta.validation-api-2.0.2-sources.jar!/javax/validation/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/2.0.2/ef429a7f3bc2d2d1784a1135668a857a6aaedf31/jakarta.validation-api-2.0.2-sources.jar!/javax/validation/ConstraintValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/RegistrationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.18/13b609cf3e427f38af202ae959351a8c44bad357/spring-web-5.3.18-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.18/13b609cf3e427f38af202ae959351a8c44bad357/spring-web-5.3.18-sources.jar!/org/springframework/web/bind/annotation/RequestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/controllers/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/resources/static/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootTesting/src/test/java/com/pluralsight/springboottesting/controller/ApplicationRestControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootHeroku/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootTomcat/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootHeroku/src/main/java/com/pluralsight/conferenceapp/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootJSP/src/main/java/com/pluralsight/springbootjsp/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$/SpringBootApplication" />
+    <option value="bootJar" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : com.pluralsight : conference.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|SpringAOPAnnotations|shop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

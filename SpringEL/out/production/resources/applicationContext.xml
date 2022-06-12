@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean name="xmlAppExpressionParser" class="com.pluralsight.springel.XmlAppExpressionParser" init-method="initMethod">
+        <constructor-arg value="#{100}"/>
+
+        <property name="value1" value="Hop"/>
+        <property name="value2" value="#{'Hop'.length() * 40}"/>
+        <property name="value3" value="#{T(java.lang.String).format(T(java.util.Locale).US, 'Test - %.2f', 43.5)}"/>
+        <property name="value4" value="#{order.name.substring(2)}"/>
+        <property name="value5" value="#{order.price}"/>
+        <property name="value7" value="#{order.price > 20 and 4 > 1}"/>
+        <property name="value8" value="#{systemProperties['user.home']}"/>
+        <property name="value9" value="#{order.elementsList.?[#this >= 4]}"/>
+        <property name="value10" value="#{order.elementsMap[order.name]}"/>
+        <property name="value11" value="#{order.elementsList.?[#this >= 4].size()}"/>
+        <property name="value12" value="The result of #{'4 + 6'} is equal to #{4 + 6}"/>
+    </bean>
+</beans>

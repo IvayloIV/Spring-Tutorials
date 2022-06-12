@@ -1,0 +1,16 @@
+com/pluralsight/conferenceapp/controllers/SessionController.java
+ com.pluralsight.conferenceapp.controllers.SessionController
+com/pluralsight/conferenceapp/models/Speaker.java
+ com.pluralsight.conferenceapp.models.Speaker
+com/pluralsight/conferenceapp/models/Session.java
+ com.pluralsight.conferenceapp.models.Session
+com/pluralsight/conferenceapp/DemoApplication.java
+ com.pluralsight.conferenceapp.DemoApplication
+com/pluralsight/conferenceapp/controllers/SpeakerController.java
+ com.pluralsight.conferenceapp.controllers.SpeakerController
+com/pluralsight/conferenceapp/repositories/SpeakerRepository.java
+ com.pluralsight.conferenceapp.repositories.SpeakerRepository
+com/pluralsight/conferenceapp/controllers/HomeController.java
+ com.pluralsight.conferenceapp.controllers.HomeController
+com/pluralsight/conferenceapp/repositories/SessionRepository.java
+ com.pluralsight.conferenceapp.repositories.SessionRepository

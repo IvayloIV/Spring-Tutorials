@@ -1,0 +1,17 @@
+type Application {
+    id: ID!
+    name: String!
+    description: String
+    owner: String
+}
+
+type Query {
+    getApplications: [Application]!
+    getApplication(id: ID!): Application!
+}
+
+type Mutation {
+    createApplication(name: String!, description: String, owner: String): Application!
+    updateApplication(id: ID!, name: String!): Application
+    deleteApplication(id: ID!): Boolean!
+}

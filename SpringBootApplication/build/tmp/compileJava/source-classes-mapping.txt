@@ -1,0 +1,18 @@
+com/pluralsight/springbootapplication/config/PropertiesConfig.java
+ com.pluralsight.springbootapplication.config.PropertiesConfig
+com/pluralsight/springbootapplication/controllers/SessionController.java
+ com.pluralsight.springbootapplication.controllers.SessionController
+com/pluralsight/springbootapplication/DemoApplication.java
+ com.pluralsight.springbootapplication.DemoApplication
+com/pluralsight/springbootapplication/repositories/SessionRepository.java
+ com.pluralsight.springbootapplication.repositories.SessionRepository
+com/pluralsight/springbootapplication/controllers/SpeakerController.java
+ com.pluralsight.springbootapplication.controllers.SpeakerController
+com/pluralsight/springbootapplication/models/Speaker.java
+ com.pluralsight.springbootapplication.models.Speaker
+com/pluralsight/springbootapplication/models/Session.java
+ com.pluralsight.springbootapplication.models.Session
+com/pluralsight/springbootapplication/repositories/SpeakerRepository.java
+ com.pluralsight.springbootapplication.repositories.SpeakerRepository
+com/pluralsight/springbootapplication/config/BeanConfiguration.java
+ com.pluralsight.springbootapplication.config.BeanConfiguration
