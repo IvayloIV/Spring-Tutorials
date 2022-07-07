@@ -1,0 +1,17 @@
+plugins {
+    id 'org.springframework.boot' version '2.5.7' // For Spring Boot version 2.5.8 and above, use OpenAPI
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'io.springfox:springfox-boot-starter:3.0.0'
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    runtimeOnly 'com.h2database:h2:2.1.212'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}

@@ -17,4 +17,7 @@ include 'SpringAOPWithDB'
 include 'SpringAOPIntroductions'
 include 'SpringBootJSP'
 include 'SpringThymeleaf'
+include 'SpringBootSwagger'
+include 'SpringBootSwaggerGroups'
+include 'SpringBootOpenApi'
 
