@@ -20,4 +20,6 @@ include 'SpringThymeleaf'
 include 'SpringBootSwagger'
 include 'SpringBootSwaggerGroups'
 include 'SpringBootOpenApi'
+include 'SpringBootUrlVersioning'
+include 'SpringBootHeaderVersioning'
 
