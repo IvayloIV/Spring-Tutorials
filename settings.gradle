@@ -22,4 +22,5 @@ include 'SpringBootSwaggerGroups'
 include 'SpringBootOpenApi'
 include 'SpringBootUrlVersioning'
 include 'SpringBootHeaderVersioning'
+include 'SpringJdbcTemplate'
 
