@@ -24,4 +24,5 @@ include 'SpringBootUrlVersioning'
 include 'SpringBootHeaderVersioning'
 include 'SpringJdbcTemplate'
 include 'SpringBootData'
+include 'SpringBootJpa'
 
