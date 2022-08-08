@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  mysqldb:
+    container_name: myspringdb
+    image: mysql:5.7-debian
+    ports:
+      - "3309:3306"
+    volumes:
+      - "./.data/db:/var/lib/mysql"
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_DATABASE: conference
