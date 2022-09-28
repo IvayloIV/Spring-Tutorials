@@ -1,0 +1,38 @@
+[
+  {
+    "from": "com.pluralsight.container.MonitorDao",
+    "to": "com.pluralsight.container.MonitorDaoImpl"
+  },
+  {
+    "from": "com.pluralsight.container.MonitorService",
+    "to": "com.pluralsight.container.MonitorServiceImpl",
+    "params": [
+      {
+        "name": "arg2",
+        "value": 4
+      },
+      {
+        "name": "test",
+        "value": "Andibu morkov"
+      }
+    ]
+  },
+  {
+    "from": "com.pluralsight.container.MyService",
+    "to": "com.pluralsight.container.MyServiceImpl",
+    "params": [
+      {
+        "name": "message",
+        "value": "Test1"
+      },
+      {
+        "name": "type",
+        "value": 53
+      },
+      {
+        "name": "value",
+        "value": 8
+      }
+    ]
+  }
+]
